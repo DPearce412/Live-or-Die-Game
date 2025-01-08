@@ -1,0 +1,8 @@
+@import './base.css';
+
+/* Add global project styles here */
+
+* {
+  font-size: 16px;
+  font-family: "Handjet", 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
+}
